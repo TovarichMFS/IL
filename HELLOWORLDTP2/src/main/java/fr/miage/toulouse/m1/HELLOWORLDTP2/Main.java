@@ -32,7 +32,7 @@ public class Main {
 		Hello hello = new Hello("LOL");
 		LOGGER.info("ceci est un message de niveau info");
 		hello.afficher("LUL");
-		hello.afficher("BCNA2");
+		hello.afficher("BCNB2");
 
 	}
 
